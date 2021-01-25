@@ -1,0 +1,16 @@
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+
+/driver/chromedriver.exe
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.DS_Store
+*.idea
